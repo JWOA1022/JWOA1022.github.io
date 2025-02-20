@@ -1,25 +1,25 @@
 # Site settings
 title: Pointing to the Moon
-description: Blog of Yingkai Liu
+description: Blog of Fan
 baseurl: "" 
-url: "https://yk-liu.github.io" 
+url: "https://jwoa1022.github.io/" 
 
 # GitHub User settings
-username: Yingkai Liu
-github_username: yk-liu
-user_description: A Physics graduate student with a broad interest
-user_title: Physics PhD student
-email: yingkai.liu@outlook.com
+username: Fan
+github_username: JWOA
+user_description: Fan
+user_title: EE Undergraduate
+email: 2522213745@qq.com
 
 # Blog Author settings
 author:
-  name:           Yingkai Liu
+  name:           Fan Zhang
   picture:        
-  email:          yingkai.liu@outlook.com
-  description:    I'm a Physics graduate student with a broad interest.
+  email:          2522213745@qq.com
+  description:    Fan
   twitter:
   facebook:
-  github:         https://github.com/yk-liu
+  github:         https://github.com/JWOA1022
   linkedin:
   # # If you're forking this site, make sure you delete this entry!
   clustrmap:      MlqUzlcZFdHetSQuxml5oHyt9RwVjZrsGbvyaRpMwgU 

@@ -25,12 +25,12 @@ jobs:
           node-version: 20
           cache: npm
 
-      #- name: Install dependencies
-      #  run: npm ci
-      - name: Configure Git identity
-        run: |
-            git config --global user.name "JWOA"
-            git config --global user.email "2522213745@qq.com"
+      - name: Install dependencies
+        run: npm ci
+      #- name: Configure Git identity
+      #  run: |
+      #      git config --global user.name "JWOA"
+      #      git config --global user.email "2522213745@qq.com"
 
       - name: Build static site
         run: npm run build

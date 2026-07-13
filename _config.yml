@@ -105,3 +105,6 @@ deploy:
   # GitHub 仅保存 Hexo 源码；静态文件由 GitHub Actions 构建后推送到服务器。
   repo: git@114.132.47.24:/home/git_jwoa/blog_jwoa.git
   branch: main
+  # hexo-deployer-git 用它们为临时 .deploy_git 仓库创建提交。
+  name: "JWOA" #"github-actions[bot]"
+  email: "2522213745@qq.com" #"41898282+github-actions[bot]@users.noreply.github.com"

@@ -1,0 +1,7 @@
+# Hexo build output: generated in CI and deployed to the server only.
+public/
+.deploy_git/
+
+# Dependencies and local runtime files.
+node_modules/
+db.json

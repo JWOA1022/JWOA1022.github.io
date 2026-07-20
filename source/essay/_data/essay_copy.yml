@@ -1,0 +1,24 @@
+- class_name: 111即刻短文
+  home_essay: true
+  limit: 10
+  title: 即刻短文
+  subTitle: 生活碎片
+  tips: 随便写点什么
+  buttonText: 返回首页
+  buttonLink: /
+  top_background: /img/default_top.png
+  essay_list:
+    - content: 今天开始使用即刻短文模块。
+      date: 2026-01-20 12:00:00
+      from: 博客
+      address: 中国
+
+    - content: 这是一条带图片的短文。
+      date: 2026-03-20 12:10:00
+      image:
+        - /img/example.jpg
+
+    - content: 这是一条带图片的短文。
+      date: 2026-09-20 12:10:00
+      image:
+        - /img/example.jpg
